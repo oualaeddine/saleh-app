@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "131599306992",
+    "firebase_url": "https://sale7bd.firebaseio.com",
+    "project_id": "sale7bd",
+    "storage_bucket": "sale7bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131599306992:android:ea5ec1294c9e4397",
+        "android_client_info": {
+          "package_name": "saleh.sale7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131599306992-p9hidfgah5cbh3oedh95bi23h76jmusk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saleh.sale7",
+            "certificate_hash": "d6e5eaa8d5ee23729374f44b365e4389445091a3"
+          }
+        },
+        {
+          "client_id": "131599306992-q1sc54g64ake2q8378riki13p9gl537q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6Zh9JQWUiysDv5gUqAK4towrXnha5Mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131599306992-q1sc54g64ake2q8378riki13p9gl537q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
